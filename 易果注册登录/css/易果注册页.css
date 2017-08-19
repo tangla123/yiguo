@@ -1,0 +1,304 @@
+*{
+    padding:0;
+    margin:0;
+    list-style: none;
+    text-decoration: none;
+}
+a{
+    color: #5D5D5D;
+}
+body{
+    background-color: #f7f8f8;
+}
+.top{
+    background-color: #eeeeee;
+    height: 20px;
+}
+.one{
+    width: 1200px;
+    height: 20px;
+    margin:auto;
+    font-size: 16px;
+    line-height: 20px;
+}
+.one a:hover{
+    text-decoration: underline;
+}
+.one ul li{
+    float: left;
+    text-align: center;
+    margin-left:5px;
+}
+.one ol{
+    float: right;
+}
+.one ol li{
+    float: left;
+    text-align: center;
+    margin-right:5px;
+}
+
+
+.two{
+    background-color: #e0e0e0;
+    height: 80px;
+}
+.twoa{
+    background-color: #e0e0e0;
+    width: 1200px;
+    height: 80px;
+    margin:auto;
+    line-height:80px;
+}
+.twoa span{
+    font-size: 40px;
+    color: green;
+    margin-left:70px;
+}
+
+
+
+.three{
+    height: 80px;
+    margin:auto;
+    width: 1200px;
+}
+.three div{
+    float: right;
+    font-size: 16px;
+    width: 200px;
+    height: 20px;
+    margin-top:50px;
+}
+
+.three a{
+    color: red;
+    text-decoration: underline;
+}
+
+
+
+.four{
+    width: 1200px;
+    height: 692px;
+    margin:auto;
+    border:1px solid greenyellow;;
+    background-color: #fff;
+}
+.foura{
+    width:650px;
+    height: 690px;
+    float: left;
+}
+
+.foura p{
+   text-align: right;
+    width: 650px;
+    height: 40px;
+    font-size: 20px;
+    margin-top:40px;
+}
+#t2{
+    background: url(../4/360截图20170524170936125.jpg) no-repeat 0 0;
+    background-position: 95%;
+}
+#t4{
+    background: url(../4/360截图20170524170953422.jpg) no-repeat 0 0;
+    background-position: 95%;
+}
+#t5{
+    background: url(../4/360截图20170524170953422.jpg) no-repeat 0 0;
+    background-position: 95%;
+}
+#t6{
+    background: url(../4/360截图20170524170953422.jpg) no-repeat 0 0;
+    background-position: 95%;
+}
+input{
+    height: 40px;
+    width: 300px;
+    box-sizing: border-box;
+    padding-left: 10px;
+    border: 1px solid #ccc;
+}
+.foura p i{
+    position: relative;
+    top:-3px;
+    text-align: center;
+    line-height: 25px;
+    display: inline-block;
+    height: 25px;
+    width: 58px;
+    border: 1px solid #ccc;
+    background: url(../4/55.gif) no-repeat 0 0;
+    font-weight: bold;
+}
+.txt{
+    width: 170px;
+}
+.txta{
+    width: 50px;
+    position: relative;
+    left: -10px;
+    text-align: center;
+    background-color: #fff;
+    border: 0;
+    outline-style: none;
+}
+.txtb{
+    width: 190px;
+}
+.txtc{
+    width: 100px;
+    background-color: #f7f7f7;
+    color: green;
+    border: 1px solid #ccc;
+    text-align: center;
+    padding:0;
+    font-size: 16px;
+}
+.txtd{
+    width: 12px;
+    height: 12px;
+}
+.txte{
+    height: 50px;
+    background-color: green;
+    border:0;
+    font-size: 24px;
+    color: #fff;
+}
+.spann{
+    display: inline-block;
+    font-size: 15px;
+    width: 150px;
+    height: 20px;
+    text-align: left;
+    color: red;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.fourb img{
+    width: 548px;
+    height: 590px;
+    float: left;
+    margin-top:50px;
+}
+
+hr{
+    margin-top: 50px ;
+    margin-bottom: 100px ;
+    color: #7b7b7b;
+}
+.bottom-two{
+    margin:0 auto;
+    width: 1200px;
+    height: 148px;
+    position: relative;
+    top: 20px;
+    font-size: 12px;
+}
+.bottom-two a{
+    font-size: 12px;
+}
+.bottom-two a:hover{
+    color: greenyellow;
+    text-decoration: underline;
+}
+.bottom-two dl{
+    width: 190px;
+    height: 148px;
+    float: left;
+    margin-left: 50px;
+
+}
+.bottom-two dl dt{
+    height: 23px;
+    line-height: 23px;
+    background: url(../4/footer-icon.png) no-repeat 0 0;
+    padding-left: 40px;
+
+}
+.bottom-two dl dt a{
+    font-size: 16px;
+}
+.bottom-two dl .icon2{
+    background-position: 0 -23px;
+}
+.bottom-two dl .icon3{
+    background-position: 0 -46px;
+}
+.bottom-two dl .icon4{
+    background-position: 0 -69px;
+}
+.bottom-two dl .icon5{
+    background-position: 0 -92px;
+}
+.bottom-two dl dd{
+    width: 177px;
+    height: 110px;
+    margin:15px 0 0 13px;
+    padding-left: 20px;
+    border-left:1px dashed #ccc;
+}
+.bottom-two dl dd p{
+    height: 22px;
+    line-height: 22px;
+}
+
+
+.both{
+    clear: both;
+    height: 100px;
+
+}
+/*法律声明*/
+.gongan{
+
+    width: 1200px;
+    height: 300px;
+    margin: 0 auto;
+    text-align: center;
+    vertical-align: middle;
+    font-size: 14px;
+}
+.gongan i{
+    display: inline-block;
+    width: 20px;
+    height: 18px;
+    background: url(../4.img/im/ghs.png) no-repeat 0 0;
+}
+.gongan a:hover{
+    color: green;
+}
+
+.disabled {
+    background-color: #CCC !important;
+    color: #fff;
+}
+
+
+
+
+
